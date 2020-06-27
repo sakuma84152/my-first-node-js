@@ -1,0 +1,325 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:q
+|2,0,1591568924,,"q"
+:w
+|2,0,1591568913,,"w"
+:wq
+|2,0,1591179443,,"wq"
+:q!
+|2,0,1591004487,,"q!"
+:q:
+|2,0,1591004468,,"q:"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""-	CHAR	0
+	強
+|3,1,36,0,1,0,1591568648,"強"
+
+# ファイルマーク:
+'0  5  0  ~/workspace/git-study/README.md
+|4,48,5,0,1591568924,"~/workspace/git-study/README.md"
+'1  23  55  /tmp/crontab.tyFFIa/crontab
+|4,49,23,55,1591179443,"/tmp/crontab.tyFFIa/crontab"
+'2  23  57  /tmp/crontab.h2bRc1/crontab
+|4,50,23,57,1591179155,"/tmp/crontab.h2bRc1/crontab"
+'3  25  0  /tmp/crontab.XnMSxr/crontab
+|4,51,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+'4  27  0  /tmp/crontab.XnMSxr/crontab
+|4,52,27,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+'5  25  0  /tmp/crontab.XnMSxr/crontab
+|4,53,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+'6  976  29  /tmp/tutoro1L0Ps
+|4,54,976,29,1591005394,"/tmp/tutoro1L0Ps"
+'7  1  0  ~/workspace/vim-study/test.txt
+|4,55,1,0,1591004619,"~/workspace/vim-study/test.txt"
+'8  1  0  ~/workspace/.profile
+|4,56,1,0,1591004522,"~/workspace/.profile"
+'9  1  0  ~/workspace/.profile
+|4,57,1,0,1591004355,"~/workspace/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  5  0  ~/workspace/git-study/README.md
+|4,39,5,0,1591568924,"~/workspace/git-study/README.md"
+-'  1  0  ~/workspace/git-study/README.md
+|4,39,1,0,1591568484,"~/workspace/git-study/README.md"
+-'  23  55  /tmp/crontab.tyFFIa/crontab
+|4,39,23,55,1591179443,"/tmp/crontab.tyFFIa/crontab"
+-'  23  55  /tmp/crontab.tyFFIa/crontab
+|4,39,23,55,1591179443,"/tmp/crontab.tyFFIa/crontab"
+-'  1  0  /tmp/crontab.tyFFIa/crontab
+|4,39,1,0,1591179368,"/tmp/crontab.tyFFIa/crontab"
+-'  1  0  /tmp/crontab.tyFFIa/crontab
+|4,39,1,0,1591179368,"/tmp/crontab.tyFFIa/crontab"
+-'  23  57  /tmp/crontab.h2bRc1/crontab
+|4,39,23,57,1591179155,"/tmp/crontab.h2bRc1/crontab"
+-'  23  57  /tmp/crontab.h2bRc1/crontab
+|4,39,23,57,1591179155,"/tmp/crontab.h2bRc1/crontab"
+-'  23  57  /tmp/crontab.h2bRc1/crontab
+|4,39,23,57,1591179155,"/tmp/crontab.h2bRc1/crontab"
+-'  23  57  /tmp/crontab.h2bRc1/crontab
+|4,39,23,57,1591179155,"/tmp/crontab.h2bRc1/crontab"
+-'  1  0  /tmp/crontab.h2bRc1/crontab
+|4,39,1,0,1591179097,"/tmp/crontab.h2bRc1/crontab"
+-'  1  0  /tmp/crontab.h2bRc1/crontab
+|4,39,1,0,1591179097,"/tmp/crontab.h2bRc1/crontab"
+-'  1  0  /tmp/crontab.h2bRc1/crontab
+|4,39,1,0,1591179097,"/tmp/crontab.h2bRc1/crontab"
+-'  1  0  /tmp/crontab.h2bRc1/crontab
+|4,39,1,0,1591179097,"/tmp/crontab.h2bRc1/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591179060,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  27  0  /tmp/crontab.XnMSxr/crontab
+|4,39,27,0,1591178655,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  25  0  /tmp/crontab.XnMSxr/crontab
+|4,39,25,0,1591178641,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  1  0  /tmp/crontab.XnMSxr/crontab
+|4,39,1,0,1591178165,"/tmp/crontab.XnMSxr/crontab"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  976  29  /tmp/tutoro1L0Ps
+|4,39,976,29,1591005394,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+-'  1  0  /tmp/tutoro1L0Ps
+|4,39,1,0,1591004704,"/tmp/tutoro1L0Ps"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/README.md
+	*	1591568920	0
+	"	5	0
+	^	9	125
+	.	9	122
+	+	4	122
+	+	1	0
+	+	2	0
+	+	3	0
+	+	4	15
+	+	9	122
+
+> /tmp/crontab.tyFFIa/crontab
+	*	1591179421	0
+	"	23	55
+	^	23	56
+	.	23	55
+	+	23	55
+
+> /tmp/crontab.h2bRc1/crontab
+	*	1591179145	0
+	"	23	57
+	^	23	58
+	.	23	57
+	+	23	57
+
+> /tmp/crontab.XnMSxr/crontab
+	*	1591179049	0
+	"	25	0
+	^	26	1
+	.	26	0
+	+	22	28
+	+	27	0
+	+	22	28
+	+	23	57
+	+	26	0
+	+	27	0
+	+	24	0
+	+	26	0
+	+	23	57
+	+	25	0
+	+	24	0
+	+	26	0
+
+> /tmp/tutoro1L0Ps
+	*	1591005359	0
+	"	976	29
+	^	133	59
+	.	133	56
+	+	83	59
+	+	108	56
+	+	109	56
+	+	131	56
+	+	133	56
+
+> ~/workspace/vim-study/test.txt
+	*	1591004616	0
+	"	1	0
+
+> ~/workspace/.profile
+	*	1591004515	0
+	"	1	0
